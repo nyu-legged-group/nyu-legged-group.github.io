@@ -35,11 +35,22 @@ Dongdong Liu, Yuhang Lin, Alexander Koldy, and Vikram Kapila
 ```
 
 ## Concept
+**The concept of a humanoid throwing motion: (a) initial pose, (b) preparation pose, (c) throw pose, and (d)  recovery pose. A ball is released from the robot's right gripper at the end of the throw phase.**
 <div align="center">
 <img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/robot throw.PNG"/>
 </div>
 
-## Paper
+## Simulation
+**Simulated joint positions for differential-dynamic programming (DDP) approach.
+Lower extremity:**
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/Lower.PNG"/>
+</div>
+
+**Upper extremity:**
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/Lower.PNG"/>
+</div>
 
 ## Results
 
