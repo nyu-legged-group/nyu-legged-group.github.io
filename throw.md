@@ -16,6 +16,23 @@ improves the throwing performance for a 23 degrees-of-freedom humanoid robot in 
 optimal throwing distance while maintaining balance stability.
 
 ## Code
+```
+The code is copyrighted by the authors. Permission to copy and use 
+ this software for noncommercial use is hereby granted provided: (a)
+ this notice is retained in all copies, (2) the publication describing
+ the method (indicated below) is clearly cited, and (3) the
+ distribution from which the code was obtained is clearly cited. For
+ all other uses, please contact the authors.
+ 
+ The software code is provided "as is" with ABSOLUTELY NO WARRANTY
+ expressed or implied. Use at your own risk.
+
+This code provides an implementation of the method described in the
+following publication: 
+
+Dongdong Liu, Yuhang Lin, Alexander Koldy, and Vikram Kapila    
+"Whole-Body Optimization of Long-Distance Throw for a Humanoid in Double Support (ICRA)". 
+```
 
 ## How to use
 
