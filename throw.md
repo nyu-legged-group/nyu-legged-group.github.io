@@ -41,7 +41,8 @@ Dongdong Liu, Yuhang Lin, Alexander Koldy, and Vikram Kapila
 </div>
 
 ## Simulation
-**Simulated joint positions for differential-dynamic programming (DDP) approach.\ Lower extremity:**
+**Simulated joint positions for differential-dynamic programming (DDP) approach.<br/>
+Lower extremity:**
 <div align="center">
 <img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/Lower.png"/>
 </div>
