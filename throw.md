@@ -34,7 +34,10 @@ Dongdong Liu, Yuhang Lin, Alexander Koldy, and Vikram Kapila
 "Whole-Body Optimization of Long-Distance Throw for a Humanoid in Double Support (ICRA)". 
 ```
 
-## How to use
+## Concept
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/robot throw.PNG"/>
+</div>
 
 ## Paper
 
