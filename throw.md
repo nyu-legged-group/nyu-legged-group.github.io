@@ -1,5 +1,5 @@
 # Whole-Body Optimization of Long-Distance Throw for a Humanoid in Double Support
-[**Dongdong Liu**](http://mechatronics.engineering.nyu.edu/people/phd-candidates/dongdong-liu.php),  [**Yuhang Lin**](),[**Alexander Koldy**](), [**Vikram Kapila**](http://mechatronics.engineering.nyu.edu/people/vikram-kapila)
+[**Dongdong Liu**](http://mechatronics.engineering.nyu.edu/people/phd-candidates/dongdong-liu.php),  [**Yuhang Lin**](), [**Alexander Koldy**](), [**Vikram Kapila**](http://mechatronics.engineering.nyu.edu/people/vikram-kapila)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/cover.png"/>
