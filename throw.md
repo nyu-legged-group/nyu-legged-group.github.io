@@ -5,6 +5,8 @@
 <img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/cover.png"/>
 </div>
 
+|[Abstract](#abstract)|[Code](#code-github)|[Paper](#paper)|[Concept](#concept)|[Simulation](#results)|[Experiment](#experiment)|[Acknowledgment](#acknowledgment)|
+
 ## Abstract
 In recent years, there has been a growing interest in the use of optimal control techniques for diverse application
 scenarios being envisioned for humanoid robots. Throwing is a common human activity used in a variety of situations,
@@ -38,6 +40,8 @@ Dongdong Liu, Yuhang Lin, Alexander Koldy, and Vikram Kapila
 "Whole-Body Optimization of Long-Distance Throw for a Humanoid in Double Support (ICRA)". 
 ```
 
+## Paper
+
 ## Concept
 **The concept of a humanoid throwing motion: (a) initial pose, (b) preparation pose, (c) throw pose, and (d)  recovery pose. A ball is released from the robot's right gripper at the end of the throw phase.**
 <div align="center">
@@ -56,10 +60,30 @@ Lower extremity:**
 <img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/Lower.png"/>
 </div>
 
-**Throw distance comparision for both differential-dynamic programming DDP and keyframe (KF) approach**
+**Throw distance comparision for both differential-dynamic programming (DDP) and keyframe (KF) approach**
 <div align="center">
 <img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/projectile.png"/>
 </div>
+
+## Experiment
+**(a) A humanoid with encoder-equipped motors mounted on each joint and an inertial measurement unit (IMU) mounted on its pelvis, and
+(b) the throwing testbed**
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/experiment.png"/>
+</div>
+
+**Timeline snapshots: Throwing experiment with the DDP approach**
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/timelineDDP.png"/>
+</div>
+
+**Timeline snapshots: Throwing experiment with the KF approach**
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/timelineKF.png"/>
+</div>
+
+## Acknowledgment
+Work supported in part by the National Science Foundation under an ITEST grant DRL-1614085, RET Site grant EEC-1542286, and DRK12 grant DRL-1417769. D. Liu thanks his lab colleagues, particularly P. Chauhan, for helping edit early drafts of the manuscript.
 
 
 
