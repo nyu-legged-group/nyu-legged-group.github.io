@@ -1,6 +1,10 @@
 # Whole-Body Optimization of Long-Distance Throw for a Humanoid in Double Support
 ### Dongdong Lui, Yuhang Lin, Alexander Koldy, Vikram Kapila
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/cover.png"/>
+</div>
+
 ## Abstract
 In recent years, there has been a growing interest in the use of optimal control techniques for diverse application
 scenarios being envisioned for humanoid robots. Throwing is a common human activity used in a variety of situations,
@@ -40,7 +44,7 @@ Dongdong Liu, Yuhang Lin, Alexander Koldy, and Vikram Kapila
 <img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/robot throw.PNG"/>
 </div>
 
-## Simulation
+## Results
 **Simulated joint positions for differential-dynamic programming (DDP) approach.<br/>
 Lower extremity:**
 <div align="center">
@@ -52,7 +56,11 @@ Lower extremity:**
 <img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/Lower.png"/>
 </div>
 
-## Results
+**Throw distance comparision for both differential-dynamic programming DDP and keyframe (KF) approach**
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/projectile.png"/>
+</div>
+
 
 
 
