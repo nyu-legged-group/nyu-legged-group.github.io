@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/cover.png"/>
 </div>
 
-|[Abstract](#abstract)|[Code](#code-github)|[Paper](#paper)|[Concept](#concept)|[Simulation](#results)|[Experiment](#experiment)|[Acknowledgment](#acknowledgment)|
+|[Abstract](#abstract)|[Code](#code)|[Paper](#paper)|[Concept](#concept)|[Results](#results)|[Experiment](#experiment)|[Acknowledgment](#acknowledgment)|
 
 ## Abstract
 In recent years, there has been a growing interest in the use of optimal control techniques for diverse application
