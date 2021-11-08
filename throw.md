@@ -2,7 +2,7 @@
 [**Dongdong Liu**](http://mechatronics.engineering.nyu.edu/people/phd-candidates/dongdong-liu.php),  [**Yuhang Lin**](), [**Alexander Koldy**](), [**Vikram Kapila**](http://mechatronics.engineering.nyu.edu/people/vikram-kapila)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/cover.png"/>
+<img src="https://raw.githubusercontent.com/nyu-legged-group/nyu-legged-group.github.io/main/docs/assets/img/featured.gif"/>
 </div>
 
 |[Abstract](#abstract)|[Code](#code)|[Paper](#paper)|[Concept](#concept)|[Results](#results)|[Experiment](#experiment)|[Acknowledgment](#acknowledgment)|
