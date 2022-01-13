@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NYU Legged Group</title>
+    <link>https://nyu-legged-group.github.io/</link>
+      <atom:link href="https://nyu-legged-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>NYU Legged Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nyu-legged-group.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>NYU Legged Group</title>
+      <link>https://nyu-legged-group.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Humanoid Double-Support Throw</title>
+      <link>https://nyu-legged-group.github.io/project/double_throw/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/project/double_throw/</guid>
+      <description>&lt;p&gt;Upcoming&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Rollover Strategy for Wrist Damage Reduction in a Forward Falling Humanoid</title>
+      <link>https://nyu-legged-group.github.io/publication/rollover/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/publication/rollover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanoid Rollover</title>
+      <link>https://nyu-legged-group.github.io/project/rollover/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/project/rollover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bidirectional LSTM-based Network for Fall Prediction in a Humanoid</title>
+      <link>https://nyu-legged-group.github.io/publication/forecast/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/publication/forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDP-based Parachute Landing Optimization for a Humanoid</title>
+      <link>https://nyu-legged-group.github.io/publication/landing/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/publication/landing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanoid Forecast</title>
+      <link>https://nyu-legged-group.github.io/project/forecast/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/project/forecast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanoid Landing</title>
+      <link>https://nyu-legged-group.github.io/project/landing/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/project/landing/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://nyu-legged-group.github.io/media/landing.gif&#34; alt=&#34;demo&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>https://nyu-legged-group.github.io/projectpage/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/projectpage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>https://nyu-legged-group.github.io/research/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sphere Joint Mechanism</title>
+      <link>https://nyu-legged-group.github.io/project/sphere_joint/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/project/sphere_joint/</guid>
+      <description>&lt;p&gt;Upcoming&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nyu-legged-group.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/people/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Alexander Koldy&lt;/li&gt;
+&lt;li&gt;Aoxue Wei&lt;/li&gt;
+&lt;li&gt;Hoon Jeong&lt;/li&gt;
+&lt;li&gt;Julian Tang&lt;/li&gt;
+&lt;li&gt;Kunal Sheth&lt;/li&gt;
+&lt;li&gt;Michael Loughnane&lt;/li&gt;
+&lt;li&gt;Samuel Rossberg&lt;/li&gt;
+&lt;li&gt;Yang Liu&lt;/li&gt;
+&lt;li&gt;Yifan Xing&lt;/li&gt;
+&lt;li&gt;Yuhang Lin&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nyu-legged-group.github.io/robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/robot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
