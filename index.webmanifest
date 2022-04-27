@@ -1,15 +1,15 @@
 {
-  "name": "Legged Group @ NYU",
-  "short_name": "Legged Group @ NYU",
+  "name": "Dongdong Liu",
+  "short_name": "Dongdong Liu",
   "lang": "en-us",
   "theme_color": "#000000",
   "background_color": "#000000",
   "icons": [{
-    "src": "/images/icon_huf8e5336a0055efa597b4269d2766a471_62922_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu5d0816a8c21410d3f8285dd78450ac45_5023_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_huf8e5336a0055efa597b4269d2766a471_62922_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu5d0816a8c21410d3f8285dd78450ac45_5023_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
