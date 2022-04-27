@@ -1,153 +1,116 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dongdong Liu</title>
-    <link>https://ddliu365.github.io/</link>
-      <atom:link href="https://ddliu365.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Dongdong Liu</description>
+    <title>Legged Group @ NYU</title>
+    <link>https://nyu-legged-group.github.io/</link>
+      <atom:link href="https://nyu-legged-group.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Legged Group @ NYU</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ddliu365.github.io/images/icon_hu5d0816a8c21410d3f8285dd78450ac45_5023_512x512_fill_lanczos_center_2.png</url>
-      <title>Dongdong Liu</title>
-      <link>https://ddliu365.github.io/</link>
+      <url>https://nyu-legged-group.github.io/images/icon_huf8e5336a0055efa597b4269d2766a471_62922_512x512_fill_lanczos_center_2.png</url>
+      <title>Legged Group @ NYU</title>
+      <link>https://nyu-legged-group.github.io/</link>
     </image>
     
     <item>
       <title>Humanoid Double-Support Throw</title>
-      <link>https://ddliu365.github.io/project/double_throw/</link>
+      <link>https://nyu-legged-group.github.io/project/double_throw/</link>
       <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/project/double_throw/</guid>
+      <guid>https://nyu-legged-group.github.io/project/double_throw/</guid>
       <description>&lt;p&gt;Upcoming&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Rollover Strategy for Wrist Damage Reduction in a Forward Falling Humanoid</title>
-      <link>https://ddliu365.github.io/publication/rollover/</link>
+      <link>https://nyu-legged-group.github.io/publication/rollover/</link>
       <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/publication/rollover/</guid>
+      <guid>https://nyu-legged-group.github.io/publication/rollover/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Humanoid Rollover</title>
-      <link>https://ddliu365.github.io/project/rollover/</link>
+      <link>https://nyu-legged-group.github.io/project/rollover/</link>
       <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/project/rollover/</guid>
+      <guid>https://nyu-legged-group.github.io/project/rollover/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bidirectional LSTM-based Network for Fall Prediction in a Humanoid</title>
-      <link>https://ddliu365.github.io/publication/forecast/</link>
+      <link>https://nyu-legged-group.github.io/publication/forecast/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/publication/forecast/</guid>
+      <guid>https://nyu-legged-group.github.io/publication/forecast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DDP-based Parachute Landing Optimization for a Humanoid</title>
-      <link>https://ddliu365.github.io/publication/landing/</link>
+      <link>https://nyu-legged-group.github.io/publication/landing/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/publication/landing/</guid>
+      <guid>https://nyu-legged-group.github.io/publication/landing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Humanoid Forecast</title>
-      <link>https://ddliu365.github.io/project/forecast/</link>
+      <link>https://nyu-legged-group.github.io/project/forecast/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/project/forecast/</guid>
+      <guid>https://nyu-legged-group.github.io/project/forecast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Humanoid Landing</title>
-      <link>https://ddliu365.github.io/project/landing/</link>
+      <link>https://nyu-legged-group.github.io/project/landing/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/project/landing/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://ddliu365.github.io/media/landing.gif&#34; alt=&#34;demo&#34;&gt;&lt;/p&gt;
+      <guid>https://nyu-legged-group.github.io/project/landing/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://nyu-legged-group.github.io/media/landing.gif&#34; alt=&#34;demo&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Deep mobile printing</title>
-      <link>https://ddliu365.github.io/project/snac/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/project/snac/</guid>
+      <title>Landing Page</title>
+      <link>https://nyu-legged-group.github.io/projectpage/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/projectpage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Landing Page</title>
-      <link>https://ddliu365.github.io/projectpage/</link>
+      <link>https://nyu-legged-group.github.io/research/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/projectpage/</guid>
+      <guid>https://nyu-legged-group.github.io/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sphere Joint Mechanism</title>
-      <link>https://ddliu365.github.io/project/sphere_joint/</link>
+      <link>https://nyu-legged-group.github.io/project/sphere_joint/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/project/sphere_joint/</guid>
+      <guid>https://nyu-legged-group.github.io/project/sphere_joint/</guid>
       <description>&lt;p&gt;Upcoming&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Reconfigurable Parallel Robot</title>
-      <link>https://ddliu365.github.io/project/6urs/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/project/6urs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fruit Picking Robot</title>
-      <link>https://ddliu365.github.io/project/fruit_robot/</link>
-      <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/project/fruit_robot/</guid>
+      <title></title>
+      <link>https://nyu-legged-group.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nyu-legged-group.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ddliu365.github.io/teaching/</link>
+      <link>https://nyu-legged-group.github.io/robot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/teaching/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;nyu-tandon-robotics-summer-program&#34;&gt;NYU Tandon Robotics Summer Program&lt;/h3&gt;
-&lt;p&gt;Instructor, K12 course, New York University, 2019&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&#34;nyu-tandon-robotics-summer-program-1&#34;&gt;NYU Tandon Robotics Summer Program&lt;/h3&gt;
-&lt;p&gt;Instructor, K12 course, New York University, 2018&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;mentorship&#34;&gt;Mentorship&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Alexander Koldy&lt;/li&gt;
-&lt;li&gt;Aoxue Wei&lt;/li&gt;
-&lt;li&gt;Hoon Jeong&lt;/li&gt;
-&lt;li&gt;Julian Tang&lt;/li&gt;
-&lt;li&gt;Kunal Sheth&lt;/li&gt;
-&lt;li&gt;Michael Loughnane&lt;/li&gt;
-&lt;li&gt;Samuel Rossberg&lt;/li&gt;
-&lt;li&gt;Yang Liu&lt;/li&gt;
-&lt;li&gt;Yifan Xing&lt;/li&gt;
-&lt;li&gt;Yuhang Lin&lt;/li&gt;
-&lt;/ul&gt;
+      <guid>https://nyu-legged-group.github.io/robot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://nyu-legged-group.github.io/robot/humanoid.png&#34; alt=&#34;your image&#34;&gt;
+&lt;img src=&#34;https://nyu-legged-group.github.io/robot/robot.png&#34; alt=&#34;your image&#34;&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Hydraulic Pressure Control</title>
-      <link>https://ddliu365.github.io/project/hydraulic_control/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ddliu365.github.io/project/hydraulic_control/</guid>
-      <description></description>
     </item>
     
   </channel>

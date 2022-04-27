@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Dongdong Liu</title>
-    <link>https://ddliu365.github.io/authors/</link>
-      <atom:link href="https://ddliu365.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Legged Group @ NYU</title>
+    <link>https://nyu-legged-group.github.io/authors/</link>
+      <atom:link href="https://nyu-legged-group.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ddliu365.github.io/images/icon_hu5d0816a8c21410d3f8285dd78450ac45_5023_512x512_fill_lanczos_center_2.png</url>
+      <url>https://nyu-legged-group.github.io/images/icon_huf8e5336a0055efa597b4269d2766a471_62922_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://ddliu365.github.io/authors/</link>
+      <link>https://nyu-legged-group.github.io/authors/</link>
     </image>
     
   </channel>
