@@ -17,7 +17,65 @@
       <link>https://nyu-legged-group.github.io/project/double_throw/</link>
       <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://nyu-legged-group.github.io/project/double_throw/</guid>
-      <description>&lt;p&gt;Upcoming&amp;hellip;&lt;/p&gt;
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://mechatronics.engineering.nyu.edu/people/phd-candidates/dongdong-liu.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Dongdong Liu&lt;/strong&gt;&lt;/a&gt;,  &lt;a href=&#34;&#34;&gt;&lt;strong&gt;Yuhang Lin&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;&lt;strong&gt;Alexander Koldy&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;http://mechatronics.engineering.nyu.edu/people/vikram-kapila&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Vikram Kapila&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;docs/assets/img/cover.png&#34;/&gt;
+&lt;/div&gt;
+&lt;p&gt;|&lt;a href=&#34;#abstract&#34;&gt;Abstract&lt;/a&gt;|&lt;a href=&#34;#code&#34;&gt;Code&lt;/a&gt;|&lt;a href=&#34;#paper&#34;&gt;Paper&lt;/a&gt;|&lt;a href=&#34;#concept&#34;&gt;Concept&lt;/a&gt;|&lt;a href=&#34;#results&#34;&gt;Results&lt;/a&gt;|&lt;a href=&#34;#experiment&#34;&gt;Experiment&lt;/a&gt;|&lt;a href=&#34;#acknowledgment&#34;&gt;Acknowledgment&lt;/a&gt;|&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In recent years, there has been a growing interest in the use of optimal control techniques for diverse application
+scenarios being envisioned for humanoid robots. Throwing is a common human activity used in a variety of situations,
+including sports, hunting, rescue, etc. Optimization approaches have previously been considered to maximize the simulated
+throw performance for humans. Experimental approaches for improving human throw performance have been restricted
+to observation and mimicry of high performing athletes. In the case of robotics, prior research on throw performance
+improvement using optimization has been limited to simulations studies, with scant research considering experimental validation.
+To address this research gap, in this effort, we consider the optimal design, experimental implementation, and analysis
+of a whole-body throwing motion in a double support humanoid robot with the use of a differential dynamic programming
+(DDP) approach. We provide results from repeated experiments to demonstrate that the proposed DDP method significantly
+improves the throwing performance for a 23 degrees-of-freedom humanoid robot in contrast to a previously proposed key-frame
+(KF) method. With the framework of this paper, a humanoid robot can perform highly dynamic whole-body throwing tasks, achieving
+optimal throwing distance while maintaining balance stability.&lt;/p&gt;
+&lt;h2 id=&#34;paper&#34;&gt;Paper&lt;/h2&gt;
+&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The concept of a humanoid throwing motion: (a) initial pose, (b) preparation pose, (c) throw pose, and (d)  recovery pose. A ball is released from the robot&amp;rsquo;s right gripper at the end of the throw phase.&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;docs/assets/img/robot throw.PNG&#34;/&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Simulated joint positions for differential-dynamic programming (DDP) approach.&lt;br/&gt;
+Lower extremity:&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;docs/assets/img/Lower.png&#34;/&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Upper extremity:&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;docs/assets/img/Lower.png&#34;/&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Framework:&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;docs/assets/img/framework.png&#34;/&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Throw distance comparision for both differential-dynamic programming (DDP) and keyframe (KF) approach&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;docs/assets/img/projectile.png&#34;/&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;experiment&#34;&gt;Experiment&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;(a) A humanoid with encoder-equipped motors mounted on each joint and an inertial measurement unit (IMU) mounted on its pelvis, and
+(b) the throwing testbed&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;docs/assets/img/experiment.png&#34;/&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Timeline snapshots: Throwing experiment with the DDP approach&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;docs/assets/img/timelineDDP.png&#34;/&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Timeline snapshots: Throwing experiment with the KF approach&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;docs/assets/img/timelineKF.png&#34;/&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;acknowledgment&#34;&gt;Acknowledgment&lt;/h2&gt;
+&lt;p&gt;Work supported in part by the National Science Foundation under an ITEST grant DRL-1614085, RET Site grant EEC-1542286, and DRK12 grant DRL-1417769. D. Liu thanks his lab colleagues, particularly P. Chauhan, for helping edit early drafts of the manuscript.&lt;/p&gt;
 </description>
     </item>
     
